@@ -14,7 +14,7 @@ Rodríguez Cruz, Luis Felipe.
 
 **Resumen** : Se busca formar una comunidad sana, respetuosa, educada y con buen humor en la que los usuarios puedan tanto compartir contenido como crear lazos y relaciones entre ellos.
 
-**logotipo** : "D:\Uni\Máster\24. Inteligencia Colectiva y Formación Empresarial\Tareas\LOGO_FINAL_RAÚL_MARÍN_FRAILE.png"
+**logotipo** : 
 
 **Slogan** : No todo está perdido.
 
