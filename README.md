@@ -14,7 +14,7 @@ Rodríguez Cruz, Luis Felipe.
 
 **Resumen** : Se busca formar una comunidad sana, respetuosa, educada y con buen humor en la que los usuarios puedan tanto compartir contenido como crear lazos y relaciones entre ellos.
 
-**logotipo** : https://raw.githubusercontent.com/Raulmrn97/LUSERS-GAMING/main/assets/LOGO_LUSERS_GAMING.png
+**logotipo** : LOGO_LUSERS GAMING.png
 
 **Slogan** : No todo está perdido.
 
