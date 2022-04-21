@@ -42,7 +42,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** : 
 
-* Twitter ![twitter-logo-4](https://user-images.githubusercontent.com/103737993/164443621-21d56ed0-c3ea-482d-a4fe-66bdf310987f.png)
+* Twitter
 
 * Twitch
 * Youtube
