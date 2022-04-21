@@ -42,12 +42,12 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** : 
 
-* Discord 👻
-* Twitter 🐤
-* Twitch 👾
-* Youtube 🎥
-* Instagram 📸
-* Reddit 🤖
+* [Discord](https://discord.com/) 👻
+* [Twitter](https://twitter.com/home?lang=es) 🐤
+* [Twitch](https://www.twitch.tv/) 👾
+* [Youtube](https://www.youtube.com/) 🎥
+* [Instagram](https://www.instagram.com/) 📸
+* [Reddit](https://www.reddit.com/) 🤖
 
 --- 
 
