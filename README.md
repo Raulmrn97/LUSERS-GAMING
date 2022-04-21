@@ -48,7 +48,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 * [Youtube](https://www.youtube.com/) 🎥
 * [Instagram](https://www.instagram.com/) 📸
 * [Reddit](https://www.reddit.com/) 🤖
-
+* [TikTok](https://www.tiktok.com/es/) 🕺
 --- 
 
 ### ¿Quiénes somos?
@@ -151,7 +151,7 @@ como PrestaShop o Wix son grandes candidatas a la hora de realizar el lanzamient
 * Redes Sociales
 
 Se hará uso de redes como Twitter, Twitch y Youtube principalmente.
-De forma auxiliar se utilizará Instagram, Discord y Reddit para mayor contenido y engagement con los usuarios.
+De forma auxiliar se utilizará Instagram, TikTok, Discord y Reddit para mayor contenido y engagement con los usuarios.
 
 * Publicidad:
 
