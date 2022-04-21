@@ -96,6 +96,9 @@ Creación y elección de logotipo de la comunidad
 
 Creación del Social Media Plan y elaboración de la cabezera
 
+![cabecera](https://user-images.githubusercontent.com/103737993/164498408-5da7cbc4-aebe-4870-b03e-c062269c1e43.png)
+
+
 Elaboración de la presentación
 
 Completar GitHub y Trello con toda la información necesaria
@@ -104,14 +107,14 @@ Presentar el proyecto
 
 **Investigación de campo**
 
-Se ha observado como existe una gran cantidad de usuarios con gustos por los videojuegos y lo relacionado con ellos.
+Se ha observado como existe una gran cantidad de usuarios con gustos por los videojuegos y todo lo relacionado con ellos.
 La creciente tendencia del streaming en plataformas como Twitch, Youtube o Facebook Gaming entre otras, ha hecho que
 cada vez más usuarios se interesen por este mundo digital.
 
 **Motivación de la propuesta**
 
 Consideramos interesante esta propuesta por la creciente expansión de plataformas digitales como Discord, Slack u otras,
-en las que usuarios se juntan para relaizar actividades digitales. Se pretende unir a usuarios de diferentes rasgos y gustos
+en las que usuarios se juntan para realizar actividades digitales. Se pretende unir a usuarios de diferentes rasgos y gustos
 para formar una comunidad heterogénea, pero con gustos raiz iguales, los videojuegos e internet. De esta forma, se podría
 centralizar a un gran grupo de usuarios, ahorrandoles el trámite de búsqueda de compañeros a la hora de jugar y otorgarles
 la satisfacción de compartir sus gustos con otros usuarios similares.
@@ -143,8 +146,8 @@ compartir sus trofeos y agregar amistades con la que compartir contenido. A cont
 La idea sería ir perfeccionando la web de manera que mediante herramientas de adaptabilidad y accesibilidad,
 cada usuario pueda tener un uso personalizado de la web, haciendola más familiar y cómoda para el usuario.
 
-JustinMind ha sido la herramienta seleccionada para mostrar la idea del equipo, pero herramientas como PrestaShop o Wix son
-grandes candidatas a la hora de realizar el lanzamiento web.
+[JustinMind](https://www.justinmind.com/) ha sido la herramienta seleccionada para mostrar la idea del equipo, pero herramientas
+como PrestaShop o Wix son grandes candidatas a la hora de realizar el lanzamiento web.
 
 * Redes Sociales
 
@@ -172,8 +175,8 @@ Cualquier usuario autorizado podrá preguntar y responder cualquier tipo de cues
 
 * Grado de consecución del proyecto.
 
-Los mimebros fundadores de LUSER GAMING creemos que puede llegar a ser una idea viable y con futuro.
-Son muchos los jugadores de videojuegos y muchos buscan una comunidad con la que compartir sus vivencias,
+Los miembros fundadores de LUSER GAMING creemos que puede llegar a ser una idea viable y con futuro.
+Son muchos los jugadores de videojuegos que buscan una comunidad con la que compartir sus vivencias,
 aventuras y logros, por lo que creemos que esto puede ser posible si se forma una comunidad sana y con buenos valores.
 
 * Problemas identificados
@@ -184,7 +187,7 @@ de este grupo.
 
 * Propuestas de mejora
 
-Se podría llegar a plantear la idea de colaborar con influencers o streamer con mayor engagement
+Se podría llegar a plantear la idea de colaborar con influencers o streamers con mayor engagement
 para lograr una publicidad acorde al objetivo del proyecto.
 
 * Posible interés del proyecto
