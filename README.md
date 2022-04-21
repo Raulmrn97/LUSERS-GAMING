@@ -50,7 +50,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 * Reddit 🤖
 --- 
 
-###¿Quiénes somos?
+### ¿Quiénes somos?
 
 Somos un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio y tras
 encontrar similitudes en nuestros gusto y realizar una lluvia de ideas, nos dimos cuenta de que los videojuegos
@@ -91,13 +91,21 @@ Construcción del Social Media Plan y presentación del proyecto.
 
 Actividades realizadas mediante Trello (añadir el trello)
 
+Creación y elección de logotipo de la comunidad
+
+Creación del Social Media Plan y elaboración de la cabezera
+
+Elaboración de la presentación
+
+Completar GitHub y Trello con toda la información necesaria
+
+Presentar el proyecto
+
 **Investigación de campo**
 
 Se ha observado como existe una gran cantidad de usuarios con gustos por los videojuegos y lo relacionado con ellos.
 La creciente tendencia del streaming en plataformas como Twitch, Youtube o Facebook Gaming entre otras, ha hecho que
 cada vez más usuarios se interesen por este mundo digital.
-
-**Necesidad/oportunidad**
 
 **Motivación de la propuesta**
 
@@ -117,31 +125,56 @@ Personas que buscan humor y entretenimiento
 
 Personas que no tengan usuarios con los que jugar y de esta manera les sea sencillo encontrarlos
 
+Compartir logros y frustraciones con otros usuarios, obteniendo feedback entre los usuarios
 
 ### Etapa 2: Prototipar / productos 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 
-* redes sociales (...) 
+* redes sociales
 
-* publicidad: banner (... ) 
+Se hará uso de redes como Twitter, Twitch y Youtube principalmente.
+De forma auxiliar se utilizará Instagram, Discord y Reddit para mayor contenido y engagement con los usuarios
 
-* ...
+* publicidad:
+
+En un primer momento, la idea es obtener unos pequeños fondos mediante banners publicitarios en la web.
+La idea de obtener remuneración por este proyecto, actualmente no es imprescindible.
+Se busca obtener un gran grupo de usuarios que se sientan cómodos en la plataforma.
+
+La idea de contactar con personajes públicos para obtener la atención de sus seguidores es una de las
+más viables a la hora de obtener un retorno de la publicidad.
 
 ### Etapa 3: Técnicas de evaluación utilizadas
 
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone) 
+Se haría uso de encuestas de satisfacción y de mejora a los usuarios cada determinado tiempo (2 semanas por ejemplo)
+para lograr un feedback constructivo que ayude a mejorar la experiencia de los usuarios.
 
-* Test con usuarios (...) 
-* ... 
+Se habilitará un apartado de preguntas y respuestas en las que los participantes puedan solucionar sus dudas acerca de lo que fuera.
+Cualquier usuario autorizado podrá preguntar y responder cualquier tipo de cuestión planteada.
 
 ### Conclusiones y trabajo futuro
 
-* Grado de consecución del proyecto 
-* Problemas identificados  (técnicos / sobre la idea inicial / planificacion… ) 
-* Propuestas de mejora (por qué consideras que merece la pena continuar)
-* Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
+* Grado de consecución del proyecto.
 
+Los mimebros fundadores de LUSER GAMING creemos que puede llegar a ser una idea viable y con futuro.
+Son muchos los jugadores de videojuegos y muchos buscan una comunidad con la que compartir sus vivencias,
+aventuras y logros, por lo que creemos que esto puede ser posible si se forma una comunidad sana y con buenos valores.
+
+* Problemas identificados
+
+En cuanto a los principales problemas que encontramos destacaríamos el nivel de esfuerzo y tiempo requerido para obtener un
+nombre en las redes sociales, de forma que se nos reconozca por nuestra labor y los usuarios puedan querer formar parte
+de este grupo.
+
+* Propuestas de mejora
+
+Se podría llegar a plantear la idea de colaborar con influencers o streamer con mayor engagement
+para lograr una publicidad acorde al objetivo del proyecto.
+
+* Posible interés del proyecto
+
+Cualquier usuario con afán hacia los videojuegos y el mundo de Internet y los memes podría estar interesado en unirse a esta comunidad.
 
 **Referencias y recursos utilizados** :
 * [Trello](https://trello.com/)
