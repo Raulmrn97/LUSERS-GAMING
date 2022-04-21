@@ -6,7 +6,7 @@ Máster en Gestión y Tecnologías de Procesos de Negocio.
 
 **Titulo** : LUSERS GAMING
 
-**Autor(es)** : 
+**Fundadores** : 
 Bouazzaoui Dahmouni, Ibtissam.
 García Valero, María.
 Marín Fraile, Raúl.
