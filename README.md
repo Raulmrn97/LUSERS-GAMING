@@ -142,25 +142,12 @@ Personas que no tengan usuarios con los que jugar y de esta manera les sea senci
 * Propuestas de mejora (por qué consideras que merece la pena continuar)
 * Posible interés del proyecto (¿ Quien podría  colaborar / involucrarse en el proyecto? ¿viable?)
 
-Referencias y recursos: 
-
-* Artículos ..  
-* Productos utilizados  
-* Propuestas de mejora
-
-(...)
-
-----
 
 **Referencias y recursos utilizados** :
-
+* Trello (https://trello.com/)
+* Canva (https://www.canva.com/)
+* Pinterest (https://www.pinterest.es/)
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
 * [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
-* (...) 
-
-(...)
-* (Artículos ..  )
-* (Productos utilizados ) 
-* (Recursos tipo Imágenes, videos , etc.)
