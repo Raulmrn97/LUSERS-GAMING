@@ -129,14 +129,23 @@ Compartir logros y frustraciones con otros usuarios, obteniendo feedback entre l
 
 ### Etapa 2: Prototipar / productos 
 
-* Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+* Imagen visual
 
-* redes sociales
+La idea sería formar una web principal en la que los usuarios pueda contar con una cuenta en la que destacar sus juegos favoritos,
+compartir sus trofeos y agregar amistades con la que compartir contenido. A continuación se muestra un pequeño ejemplo de ello:
+
+![Screenshot (123)](https://user-images.githubusercontent.com/103737993/164490989-44f94b7a-674c-41f5-be1e-854d7a878d73.png)
+
+La idea sería ir perfeccionando la web de manera que mediante herramientas de adaptabilidad y accesibilidad,
+cada usuario pueda tener un uso personalizado de la web, haciendola más familiar y cómoda para el usuario.
+* (Portada / Diseño de Interfaz) y herramienta usada 
+
+* Redes Sociales
 
 Se hará uso de redes como Twitter, Twitch y Youtube principalmente.
 De forma auxiliar se utilizará Instagram, Discord y Reddit para mayor contenido y engagement con los usuarios
 
-* publicidad:
+* Publicidad:
 
 En un primer momento, la idea es obtener unos pequeños fondos mediante banners publicitarios en la web.
 La idea de obtener remuneración por este proyecto, actualmente no es imprescindible.
