@@ -144,9 +144,9 @@ Personas que no tengan usuarios con los que jugar y de esta manera les sea senci
 
 
 **Referencias y recursos utilizados** :
-* Trello (https://trello.com/)
-* Canva (https://www.canva.com/)
-* Pinterest (https://www.pinterest.es/)
+* [Trello](https://trello.com/)
+* [Canva](https://www.canva.com/)
+* [Pinterest](https://www.pinterest.es/)
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
