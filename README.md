@@ -54,18 +54,17 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 ### ¿Quiénes somos?
 
 Somos un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio y tras
-encontrar similitudes en nuestros gusto y realizar una lluvia de ideas, nos dimos cuenta de que los videojuegos
-eran lo que teníamos en común. Fue entonces cuando nos surgió la idea de crear una comunidad de gente con nuestros
-mismos gustos, una comunidad en la que los usuarios puedan compartir libremente su afán por los videojuegos e internet.
+encontrar similitudes en nuestros gustos y realizar una lluvia de ideas, nos dimos cuenta de que los videojuegos
+eran lo que teníamos en común. Fue entonces cuando nos surgió la idea de crear una comunidad de gente con nuestras
+mismas aficiones; una comunidad en la que los usuarios puedan compartir libremente su afán por los videojuegos e internet.
 Es por esto por lo que decidimos empezar el proyecto Lusers Gaming, jugando con las palabras Loser y User y nuestro lema,
 "no todo está perdido".
 
 ### Objetivo
 
 Crear un espacio en el que los usuarios puedan divertirse y evadirse, buscando la completa comodidad y tranquilidad de
-estos. Muchas veces los usuarios jugadores sienten que están solos o apartados, faltandoles gente con sus gustos y
-compartir con ellos sus logros y dudas. Con la comunidad de LUSERS GAMING buscamos solucionar eso, creando
-una familia de jugadores.
+estos. Muchas veces los usuarios jugadores sienten que están solos o apartados, faltándoles personas con sus gustos y poder
+compartir con ellos sus logros y dudas. Con la comunidad de LUSERS GAMING buscamos solucionar eso, creando una familia de jugadores.
 
 ![mision](https://user-images.githubusercontent.com/103737993/164441680-50158025-e7fa-448e-8317-602afd18860b.jpeg)
 
@@ -74,23 +73,24 @@ una familia de jugadores.
 
 Al igual que nos surgió la necesidad e inquietud a los fundadores, cualquier usuario puede hacerse la pregunta de:
 ¿habrá algún sitio en el que pueda encontrar y conocer gente para jugar? ¿podré compartir mis logros? ¿habrá quien
-sepa responderme a esta duda sobre esta misión?
+sepa responder mi duda sobre esta misión?
 En esta comunidad se dan respuestas a esas preguntas, pues se busca unir a jugadores de todas las plataformas, tipos
 de juegos e inquietudes, aportando lugares que se centren en cada gusto o tipo de juego y otros que centralicen a los
 jugadores para realizar quedadas, eventos u otras acciones grupales.
+
+--- 
 
 ### Metodología
 
 Creación del repositorio de GitHub.
 
-Planificación de tareas mediante Trello: https://trello.com/b/IHGkNw3p/lusers
+Planificación de tareas mediante [Trello](https://trello.com/b/IHGkNw3p/lusers)
 
 Construcción del Social Media Plan y presentación del proyecto.
 
-
 ### Etapa 1: Ideación de proyecto 
 
-Actividades realizadas mediante Trello (añadir el trello)
+Actividades realizadas mediante [Trello](https://trello.com/b/IHGkNw3p/lusers)
 
 Creación y elección de logotipo de la comunidad
 
