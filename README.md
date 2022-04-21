@@ -12,7 +12,8 @@ García Valero, María.
 Marín Fraile, Raúl.
 Rodríguez Cruz, Luis Felipe.
 
-**Resumen** : Se busca formar una comunidad sana, respetuosa, educada y con buen humor en la que los usuarios puedan tanto compartir contenido como crear lazos y relaciones entre ellos.
+**Resumen** : Se busca formar una comunidad sana, respetuosa, educada y con buen humor en la que los usuarios
+puedan tanto compartir contenido como crear lazos y relaciones entre ellos.
 
 **logotipo** :
 
@@ -38,25 +39,30 @@ Rodríguez Cruz, Luis Felipe.
 ###¿Quiénes somos?
 
 Somos un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio y tras
-encontrar similitudes en nuestros gusto y realizar una lluvia de ideas, nos dimos cuenta de que los videojuegos eran
-lo que teníamos en común. Fue entonces cuando nos surgió la idea de crear una comunidad de gente con nuestros mismos gustos,
-una comunidad en la que los usuarios puedan compartir libremente su afán por los videojuegos e internet. Es por esto
-por lo que decidimos empezar el proyecto Lusers Gaming, jugando con las palabras Loser y User y nuestro lema, "no todo está perdido".
+encontrar similitudes en nuestros gusto y realizar una lluvia de ideas, nos dimos cuenta de que los videojuegos
+eran lo que teníamos en común. Fue entonces cuando nos surgió la idea de crear una comunidad de gente con nuestros
+mismos gustos, una comunidad en la que los usuarios puedan compartir libremente su afán por los videojuegos e internet.
+Es por esto por lo que decidimos empezar el proyecto Lusers Gaming, jugando con las palabras Loser y User y nuestro lema,
+"no todo está perdido".
 
 ### Objetivo
 
-Crear un espacio en el que los usuarios puedan divertirse y evadirse, buscando la completa comodidad y tranquilidad de estos.
-Muchas veces los usuarios jugadores sienten que están solos o apartados, faltandoles gente con sus gustos y compartir con
-ellos sus logros y dudas. Con la comunidad de LUSERS GAMING buscamos solucionar eso, creando una familia de jugadores.
+Crear un espacio en el que los usuarios puedan divertirse y evadirse, buscando la completa comodidad y tranquilidad de
+estos. Muchas veces los usuarios jugadores sienten que están solos o apartados, faltandoles gente con sus gustos y
+compartir con ellos sus logros y dudas. Con la comunidad de LUSERS GAMING buscamos solucionar eso, creando
+una familia de jugadores.
+
+![mision](https://user-images.githubusercontent.com/103737993/164441680-50158025-e7fa-448e-8317-602afd18860b.jpeg)
+
 
 ###¿Por qué la comunidad?
 
 Al igual que nos surgió la necesidad e inquietud a los fundadores, cualquier usuario puede hacerse la pregunta de:
-¿habrá algún sitio en el que pueda encontrar y conocer gente para jugar? ¿podré compartir mis logros? ¿habrá quien sepa
-responderme a esta duda sobre esta misión?
-En esta comunidad se dan respuestas a esas preguntas, pues se busca unir a jugadores de todas las plataformas, tipos de juegos
-e inquietudes, aportando lugares que se centren en cada gusto o tipo de juego y otros que centralicen a los jugadores
-para realizar quedadas, eventos u otras acciones grupales.
+¿habrá algún sitio en el que pueda encontrar y conocer gente para jugar? ¿podré compartir mis logros? ¿habrá quien
+sepa responderme a esta duda sobre esta misión?
+En esta comunidad se dan respuestas a esas preguntas, pues se busca unir a jugadores de todas las plataformas, tipos
+de juegos e inquietudes, aportando lugares que se centren en cada gusto o tipo de juego y otros que centralicen a los
+jugadores para realizar quedadas, eventos u otras acciones grupales.
 
 ### Metodología
 
@@ -69,11 +75,19 @@ Construcción del Social Media Plan y presentación del proyecto.
 Actividades realizadas mediante Trello (añadir el trello)
 
 **Investigación de campo**
-Se ha observado como existe una gran cantidad de usuarios con gustos por los videojuegos y lo relacionado con ellos. La creciente tendencia del streaming en plataformas como Twitch, Youtube o Facebook Gaming entre otras, ha hecho que cada vez más usuarios se interesen por este mundo digital.
+
+Se ha observado como existe una gran cantidad de usuarios con gustos por los videojuegos y lo relacionado con ellos.
+La creciente tendencia del streaming en plataformas como Twitch, Youtube o Facebook Gaming entre otras, ha hecho que
+cada vez más usuarios se interesen por este mundo digital.
+
 **Necesidad/oportunidad**
 
 **Motivación de la propuesta**
-Consideramos interesante esta propuesta por la creciente expansión de plataformas digitales como Discord, Slack u otras, en las que usuarios se juntan para relaizar actividades digitales. Se pretende unir a usuarios de diferentes rasgos y gustos para formar una comunidad heterogénea, pero con gustos raiz iguales, los videojuegos e internet. De esta forma, se podría centralizar a un gran grupo de usuarios, ahorrandoles el trámite de búsqueda de compañeros a la hora de jugar y otorgarles la satisfacción de compartir sus gustos con otros usuarios similares.
+Consideramos interesante esta propuesta por la creciente expansión de plataformas digitales como Discord, Slack u otras,
+en las que usuarios se juntan para relaizar actividades digitales. Se pretende unir a usuarios de diferentes rasgos y gustos
+para formar una comunidad heterogénea, pero con gustos raiz iguales, los videojuegos e internet. De esta forma, se podría
+centralizar a un gran grupo de usuarios, ahorrandoles el trámite de búsqueda de compañeros a la hora de jugar y otorgarles
+la satisfacción de compartir sus gustos con otros usuarios similares.
 
 **Personas/Usuarios**
 
