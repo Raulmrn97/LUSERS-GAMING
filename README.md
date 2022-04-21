@@ -19,7 +19,9 @@ Marín Fraile, Raúl.
 Rodríguez Cruz, Luis Felipe.
 
 
-**Resumen** : Se busca formar una comunidad sana, respetuosa, educada y con buen humor en la que los usuarios
+**Resumen** :
+
+Se busca formar una comunidad sana, respetuosa, educada y con buen humor, en la que los usuarios
 puedan tanto compartir contenido como crear lazos y relaciones entre ellos.
 
 **logotipo** :
