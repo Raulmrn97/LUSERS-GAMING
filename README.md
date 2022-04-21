@@ -81,8 +81,11 @@ jugadores para realizar quedadas, eventos u otras acciones grupales.
 ### Metodología
 
 Creación del repositorio de GitHub.
+
 Planificación de tareas mediante Trello: https://trello.com/b/IHGkNw3p/lusers
+
 Construcción del Social Media Plan y presentación del proyecto.
+
 
 ### Etapa 1: Ideación de proyecto 
 
@@ -97,6 +100,7 @@ cada vez más usuarios se interesen por este mundo digital.
 **Necesidad/oportunidad**
 
 **Motivación de la propuesta**
+
 Consideramos interesante esta propuesta por la creciente expansión de plataformas digitales como Discord, Slack u otras,
 en las que usuarios se juntan para relaizar actividades digitales. Se pretende unir a usuarios de diferentes rasgos y gustos
 para formar una comunidad heterogénea, pero con gustos raiz iguales, los videojuegos e internet. De esta forma, se podría
@@ -106,9 +110,13 @@ la satisfacción de compartir sus gustos con otros usuarios similares.
 **Personas/Usuarios**
 
 Puede interesar a usuarios como:
+
 Gamers
+
 Personas que buscan humor y entretenimiento
-Personas que no tengan usuarios con los que jugar y de esta manera les sea sencillo encontrarlos.
+
+Personas que no tengan usuarios con los que jugar y de esta manera les sea sencillo encontrarlos
+
 
 ### Etapa 2: Prototipar / productos 
 
