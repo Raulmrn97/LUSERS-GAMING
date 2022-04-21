@@ -48,6 +48,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 * Youtube 🎥
 * Instagram 📸
 * Reddit 🤖
+
 --- 
 
 ### ¿Quiénes somos?
@@ -138,12 +139,14 @@ compartir sus trofeos y agregar amistades con la que compartir contenido. A cont
 
 La idea sería ir perfeccionando la web de manera que mediante herramientas de adaptabilidad y accesibilidad,
 cada usuario pueda tener un uso personalizado de la web, haciendola más familiar y cómoda para el usuario.
-* (Portada / Diseño de Interfaz) y herramienta usada 
+
+* JustinMind ha sido la herramienta seleccionada para mostrar la idea del equipo, pero herramientas como PrestaShop o Wix son
+* grandes candidatas a la hora de realizar el lanzamiento web.
 
 * Redes Sociales
 
 Se hará uso de redes como Twitter, Twitch y Youtube principalmente.
-De forma auxiliar se utilizará Instagram, Discord y Reddit para mayor contenido y engagement con los usuarios
+De forma auxiliar se utilizará Instagram, Discord y Reddit para mayor contenido y engagement con los usuarios.
 
 * Publicidad:
 
@@ -186,10 +189,11 @@ para lograr una publicidad acorde al objetivo del proyecto.
 Cualquier usuario con afán hacia los videojuegos y el mundo de Internet y los memes podría estar interesado en unirse a esta comunidad.
 
 **Referencias y recursos utilizados** :
+
+* [JustinMind](https://www.justinmind.com/)
 * [Trello](https://trello.com/)
 * [Canva](https://www.canva.com/)
 * [Pinterest](https://www.pinterest.es/)
 * [Proceso UX](https://uxmastery.com/resources/process/)
 * [Diseño de Experiencias UX](http://www.nosolousabilidad.com/articulos/uxd.htm) 
 * [Métodos UX](https://mgea.github.io/UX-DIU-Checklist/index.html) 
-* [MuseMap: ejemplo de experiencia UX](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b) 
