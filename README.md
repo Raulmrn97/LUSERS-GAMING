@@ -69,7 +69,7 @@ una familia de jugadores.
 ![mision](https://user-images.githubusercontent.com/103737993/164441680-50158025-e7fa-448e-8317-602afd18860b.jpeg)
 
 
-###¿Por qué la comunidad?
+### ¿Por qué la comunidad?
 
 Al igual que nos surgió la necesidad e inquietud a los fundadores, cualquier usuario puede hacerse la pregunta de:
 ¿habrá algún sitio en el que pueda encontrar y conocer gente para jugar? ¿podré compartir mis logros? ¿habrá quien
