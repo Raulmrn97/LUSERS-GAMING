@@ -42,14 +42,12 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 **Redes Sociales** : 
 
-* Instagram - <a href="https://www.instagram.com/lusers_gaming/"><img src="https://img.shields.io/badge/instagram%20@lusers-gaming-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-* Facebook - <a href="https://www.instagram.com/lusers gaming/"><img src="https://img.shields.io/badge/facebook%20@lusers-gaming-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-* Twitter - <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@lusers-gaming-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-* Twitch
-* Youtube
-* Instagram
-* Reddit
+* Discord 👻
+* Twitter 🐤
+* Twitch 👾
+* Youtube 🎥
+* Instagram 📸
+* Reddit 🤖
 --- 
 
 ###¿Quiénes somos?
