@@ -119,9 +119,7 @@ para formar una comunidad heterogénea, pero con gustos raiz iguales, los videoj
 centralizar a un gran grupo de usuarios, ahorrandoles el trámite de búsqueda de compañeros a la hora de jugar y otorgarles
 la satisfacción de compartir sus gustos con otros usuarios similares.
 
-<p align="center">
-  <img /> ![Steam Community __ Hollow Knight](https://user-images.githubusercontent.com/103737993/164494006-2849e1fc-4c63-475d-9998-961d93342dc2.gif)
-</p>
+![Steam Community __ Hollow Knight](https://user-images.githubusercontent.com/103737993/164494006-2849e1fc-4c63-475d-9998-961d93342dc2.gif)
 
 **Personas/Usuarios**
 
