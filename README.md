@@ -143,8 +143,8 @@ compartir sus trofeos y agregar amistades con la que compartir contenido. A cont
 La idea sería ir perfeccionando la web de manera que mediante herramientas de adaptabilidad y accesibilidad,
 cada usuario pueda tener un uso personalizado de la web, haciendola más familiar y cómoda para el usuario.
 
-* JustinMind ha sido la herramienta seleccionada para mostrar la idea del equipo, pero herramientas como PrestaShop o Wix son
-* grandes candidatas a la hora de realizar el lanzamiento web.
+JustinMind ha sido la herramienta seleccionada para mostrar la idea del equipo, pero herramientas como PrestaShop o Wix son
+grandes candidatas a la hora de realizar el lanzamiento web.
 
 * Redes Sociales
 
