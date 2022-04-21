@@ -10,13 +10,13 @@ Máster en Gestión y Tecnologías de Procesos de Negocio.
 
 **Fundadores** :
 
-Bouazzaoui Dahmouni, Ibtissam.
+* Bouazzaoui Dahmouni, Ibtissam.
 
-García Valero, María.
+* García Valero, María.
 
-Marín Fraile, Raúl.
+* Marín Fraile, Raúl.
 
-Rodríguez Cruz, Luis Felipe.
+* Rodríguez Cruz, Luis Felipe.
 
 
 **Resumen** :
