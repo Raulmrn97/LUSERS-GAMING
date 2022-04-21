@@ -1,7 +1,9 @@
 ## 🎮LUSERS GAMING👾
 
 Proyecto de Comunidad de usuarios relacionados con los videojuegos e Internet.
+
 Máster en Gestión y Tecnologías de Procesos de Negocio.
+
 ----
 
 **Titulo** : LUSERS GAMING
