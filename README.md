@@ -14,7 +14,8 @@ Rodríguez Cruz, Luis Felipe.
 
 **Resumen** : Se busca formar una comunidad sana, respetuosa, educada y con buen humor en la que los usuarios puedan tanto compartir contenido como crear lazos y relaciones entre ellos.
 
-**logotipo** : ![LOGO_REDUCIDO](https://user-images.githubusercontent.com/103737993/164441298-855632e6-229f-4e0e-a969-813b702b96f6.png)
+**logotipo** :
+![LOGO_REDUCIDO](https://user-images.githubusercontent.com/103737993/164441298-855632e6-229f-4e0e-a969-813b702b96f6.png)
 
 **Slogan** : No todo está perdido.
 
