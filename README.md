@@ -140,8 +140,7 @@ compartir sus trofeos y agregar amistades con la que compartir contenido. A cont
 La idea sería ir perfeccionando la web de manera que mediante herramientas de adaptabilidad y accesibilidad,
 cada usuario pueda tener un uso personalizado de la web, haciendola más familiar y cómoda para el usuario.
 
-[JustinMind](https://www.justinmind.com/) ha sido la herramienta seleccionada para mostrar la idea del equipo, pero herramientas
-como PrestaShop o Wix son grandes candidatas a la hora de realizar el lanzamiento web.
+[JustinMind](https://www.justinmind.com/) ha sido la herramienta seleccionada para mostrar la idea del equipo, pero herramientas como PrestaShop o Wix son grandes candidatas a la hora de realizar el lanzamiento web.
 
 * Redes Sociales
 
@@ -187,6 +186,32 @@ para lograr una publicidad acorde al objetivo del proyecto.
 * Posible interés del proyecto
 
 Cualquier usuario con afán hacia los videojuegos y el mundo de Internet y los memes podría estar interesado en unirse a esta comunidad.
+
+--- 
+
+### Colabora con nosotros:
+
+El principal objetivo a la hora de comenzar nuestro proyecto es definir nuestra campaña de presencia online. 
+Como hemos ido especificando, nuestro objetivo es construir una comunidad fuerte a través de los canales de comunicación, creando perfiles en redes sociales (Facebook, Instagram, TikTok, etc). Para ello, programaremos las publicaciones previstas en nuestro plan de comunicación utilizando Monday.Com, herramienta la cual nos ayudará a planificar la difusión con antelación. De esta forma, podremos crear vínculos y aumentar el engagement con los usuarios, ya sea de manera directa o indirecta. A continuación, detallamos el marco de nuestra campaña:
+
+* Objetivo financiero
+
+La cantidad económica a alcanzar es de 1000 euros para ayudarnos a financiar nuestra comunidad, mantenimiento de servidores, web y RRSS, y para cubrir otros gastos.
+
+* Duración de la campaña
+
+La duración de la campaña es un elemento esencial para todos los métodos de financiación. Se busca que la campaña de recaudación se mantenga vigente hasta 1 mes antes del lanzamiento oficial de la comunidad, para poder obtener los fondos suficientes para los preparativos.
+
+* Fecha de lanzamiento
+
+Hemos elegido el 23/06/2022 como día de lanzamiento, coincidiendo con un evento nacional de videojuegos que durará dos semanas. De esta manera podemos identificarlos y obtener más información y características sobre ellos a partir de sus elecciones y reacciones en las redes sociales.
+
+* Plataforma de Crowdfunding
+
+Hoy en día hay muchas plataformas de Crowdfunding, algunas son generalistas y se interesan por todo tipo de proyectos, otras se dedican a determinados tipos de proyectos: culturales, sociales, medioambientales, innovadores, digitales.
+
+ La plataforma que utilizaremos es SeedInvest por sus ventajas. En dicha plataforma se especificarán los objetivos y razones por las que la ayuda que podamos obtener es de gran importancia para la ejecución del proyecto.
+
 
 **Referencias y recursos utilizados** :
 
