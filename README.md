@@ -212,6 +212,7 @@ Hoy en día hay muchas plataformas de Crowdfunding, algunas son generalistas y s
 
  La plataforma que utilizaremos es SeedInvest por sus ventajas. En dicha plataforma se especificarán los objetivos y razones por las que la ayuda que podamos obtener es de gran importancia para la ejecución del proyecto.
 
+----
 
 **Referencias y recursos utilizados** :
 
