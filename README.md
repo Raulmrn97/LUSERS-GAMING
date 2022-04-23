@@ -53,12 +53,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
 ### ¿Quiénes somos?
 
-Somos un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio y tras
-encontrar similitudes en nuestros gustos y realizar una lluvia de ideas, nos dimos cuenta de que los videojuegos
-eran lo que teníamos en común. Fue entonces cuando nos surgió la idea de crear una comunidad de gente con nuestras
-mismas aficiones; una comunidad en la que los usuarios puedan compartir libremente su afán por los videojuegos e internet.
-Es por esto por lo que decidimos empezar el proyecto Lusers Gaming, jugando con las palabras Loser y User y nuestro lema,
-"no todo está perdido".
+Somos un grupo de 4 estudiantes del Máster de Gestión y Tecnologías de Procesos de Negocio y tras encontrar similitudes en nuestros gustos y realizar una lluvia de ideas, nos dimos cuenta de que los videojuegos eran lo que teníamos en común. Fue entonces cuando nos surgió la idea de crear una comunidad de gente con nuestras mismas aficiones; una comunidad en la que los usuarios puedan compartir libremente su afán por los videojuegos e internet. Es por esto por lo que decidimos empezar el proyecto Lusers Gaming, jugando con las palabras Loser y User y nuestro lema, "no todo está perdido".
 
 ### Objetivo
 
