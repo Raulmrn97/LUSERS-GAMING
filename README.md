@@ -147,6 +147,8 @@ cada usuario pueda tener un uso personalizado de la web, haciendola más familia
 Se hará uso de redes como Twitter, Twitch y Youtube principalmente.
 De forma auxiliar se utilizará Instagram, TikTok, Discord y Reddit para mayor contenido y engagement con los usuarios.
 
+(AÑADIR BANNER DE CABECERA MARIA/FELIPE)
+
 * Publicidad:
 
 En un primer momento, la idea es obtener unos pequeños fondos mediante banners publicitarios en la web.
