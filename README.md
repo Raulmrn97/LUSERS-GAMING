@@ -34,7 +34,7 @@ puedan tanto compartir contenido como crear lazos y relaciones entre ellos.
 
 **Licencia**
 
-![cc](https://user-images.githubusercontent.com/103737993/164442775-d21a718f-c186-4e2c-9cb1-c642c99d9260.png)
+![cc](https://user-images.githubusercontent.com/103737993/164442775-d21a718f-c186-4e2c-9cb1-c642c99d9260.png) 
 
 Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 
