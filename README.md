@@ -2,7 +2,9 @@
 
 Proyecto de Comunidad de usuarios relacionados con los videojuegos e Internet.
 
-Máster en Gestión y Tecnologías de Procesos de Negocio.
+**Máster** en Gestión y Tecnologías de Procesos de Negocio.
+
+**Asignatura** Inteligencia colectiva y la formación en las empresas.
 
 ----
 
@@ -31,7 +33,7 @@ Se busca formar una comunidad sana, respetuosa, educada y con buen humor, en la 
 
 **Hashtag** #gamer #videogames #humor #internet #memes #comunity #respect #share
 
-**Licencia**
+**Licencia** :
 
 ![cc](https://user-images.githubusercontent.com/103737993/164442775-d21a718f-c186-4e2c-9cb1-c642c99d9260.png)
 
@@ -48,6 +50,7 @@ Creative Commons (CC) de Reconocimiento - No comercial - Sin Obra Derivada.
 * [Instagram](https://www.instagram.com/) 📸
 * [Reddit](https://www.reddit.com/) 🤖
 * [TikTok](https://www.tiktok.com/es/) 🕺
+
 --- 
 
 ### ¿Quiénes somos?
@@ -125,11 +128,11 @@ La idea sería ir perfeccionando la web de manera que mediante herramientas de a
 
 * Redes Sociales
 
-Se hará uso de redes como Twitter, Twitch y Youtube principalmente. De forma auxiliar se utilizará Instagram, TikTok, Discord y Reddit para mayor contenido y engagement con los usuarios.
+Se hará uso de redes como Twitter, Twitch y Youtube principalmente. De forma auxiliar se utilizará Instagram y Reddit para mayor contenido y engagement con los usuarios. Se creará un servidor de Discord y una cuenta de TikTok para generar mayor contenido y conectividad entre los usuarios.
 
 ![banner](https://user-images.githubusercontent.com/103737993/165264089-c015c5df-ccfa-4bf8-a477-3ccca52af16e.jpeg)
 
-* Publicidad:
+* Publicidad
 
 En un primer momento, la idea es obtener unos pequeños fondos mediante banners publicitarios en la web. La idea de obtener remuneración por este proyecto, actualmente no es imprescindible. Se busca obtener un gran grupo de usuarios que se sientan cómodos en la plataforma.
 
@@ -143,7 +146,7 @@ Se habilitará un apartado de preguntas y respuestas en las que los participante
 
 ### Conclusiones y trabajo futuro
 
-* Grado de consecución del proyecto.
+* Grado de consecución del proyecto
 
 Los miembros fundadores de LUSER GAMING creemos que puede llegar a ser una idea viable y con futuro. Son muchos los jugadores de videojuegos que buscan una comunidad con la que compartir sus vivencias, aventuras y logros, por lo que creemos que esto puede ser posible si se forma una comunidad sana y con buenos valores.
 
@@ -161,7 +164,7 @@ Cualquier usuario con afán hacia los videojuegos y el mundo de Internet y los m
 
 --- 
 
-### Colabora con nosotros:
+### Colabora con nosotros
 
 El principal objetivo a la hora de comenzar nuestro proyecto es definir nuestra campaña de presencia online. Como hemos ido especificando, nuestro objetivo es onstruir una comunidad fuerte a través de los canales de comunicación, creando perfiles en redes sociales (Facebook, Instagram, TikTok, etc). Para ello, programaremos las publicaciones previstas en nuestro plan de comunicación utilizando Monday.Com, herramienta la cual nos ayudará a planificar la difusión con antelación. De esta forma, podremos crear vínculos y aumentar el engagement con los usuarios, ya sea de manera directa o indirecta. A continuación, detallamos el marco de nuestra campaña:
 
@@ -185,7 +188,7 @@ Hoy en día hay muchas plataformas de Crowdfunding, algunas son generalistas y s
 
 ----
 
-**Referencias y recursos utilizados** :
+**Referencias y recursos utilizados**
 
 * [JustinMind](https://www.justinmind.com/)
 * [Trello](https://trello.com/)
