@@ -83,9 +83,6 @@ Creación y elección de logotipo de la comunidad
 
 Creación del Social Media Plan y elaboración de la cabezera
 
-![cabecera](https://user-images.githubusercontent.com/103737993/164498408-5da7cbc4-aebe-4870-b03e-c062269c1e43.png)
-
-
 Elaboración de la presentación
 
 Completar GitHub y Trello con toda la información necesaria
