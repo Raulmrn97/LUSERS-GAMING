@@ -185,6 +185,8 @@ Hemos elegido el 23/06/2022 como día de lanzamiento, coincidiendo con un evento
 Hoy en día hay muchas plataformas de Crowdfunding, algunas son generalistas y se interesan por todo tipo de proyectos, otras se dedican a determinados tipos de royectos: culturales, sociales, medioambientales, innovadores, digitales.
 
  La plataforma que utilizaremos es SeedInvest por sus ventajas. En dicha plataforma se especificarán los objetivos y razones por las que la ayuda que podamos obtener es de gran importancia para la ejecución del proyecto. Otra opción podría ser la plataforma KickSarter.
+ 
+¿Te ha parecido interesante nuestro proyecto? Puedes visitarlo en: [🎮LUSERS GAMING👾](https://raulmrn97.github.io/)
 
 ----
 
